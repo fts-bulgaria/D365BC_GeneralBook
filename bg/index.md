@@ -1,4 +1,4 @@
-﻿---
+---
 title: Дневник-главна книга за Microsoft Dynamics 365 Business Central
 owner: ФТС България
 redirect_from:

@@ -1,4 +1,4 @@
-﻿---
+---
 title: Bulgarian General Ledger Functionality for Microsoft Dynamics 365 Business Central
 owner: FTS Bulgaria
 redirect_from:
