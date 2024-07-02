@@ -12,7 +12,7 @@ redirect_from:
 
 Bulgarian General Ledger Functionality for Microsoft Dynamics 365 Business Central includes the reports: General Ledger and Chronological journal
 
-# **CONTENTS** {#contents .TOC-Heading}
+# **CONTENTS**
 
 [1. Executive summary](#executive-summary)\
 [2. Settings for General Ledger reporting](#settings-for-general-ledger-reporting)\
